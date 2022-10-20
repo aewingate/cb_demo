@@ -7,16 +7,13 @@ permalink: /technical.html
 ---
 # Technical Documentation
 ## Items Chosen
-
 The items selected for imaging were chosen because they were already owned by the creator of this site, and the publications are all in the public domain. All items in the collection have been fully digitized and they have received OCR treatment using ABBYY FineReader 15. This means that all of the PDF files are searchable, both within the files themselves and using the search bar of the site (you will have to open the PDF file to view the text, however). Due to time constraints, the OCR has not been corrected, but the quality of the OCR is generally quite good despite the fact that the print quality is somewhat poor.  
 ## Imaging Standards
-
 The pamphlet novels were photographed using a home set up due to the ongoing COVID-19 pandemic. Items were placed on a black book cushion and lit from above using a lamp covered with parchment paper to diffuse the light (see photo). The actual photos were taken with the Camera app of an iPad Pro. These photos are 72dpi.  
 
 The photos were then transferred to a laptop and perspective cropped in Photoshop and saved as JPGs on the highest quality setting. No color adjustments were made to the photos. Then the photos were underwent the OCR process in ABBYY Fine Reader and saved as searchable PDFs.  
 
-
-![Home digitization set-up using a book cushion and lamp](images/dig_setup.jpg)
+![Home digitization set-up using a book cushion and lamp](/images/dig_setup.jpg)
 **Home digitization set-up, October 2020, Bloomington, IN**  
 
 Under normal circumstances, the pamphlet novels would be scanned on a flat bed scanner, especially since they lay very flat. They would be scanned with color calibration cards to ensure faithful color, and the ppi of the photos would likely be higher. The images could then be processed by ABBYY Fine Reader and any OCR errors would be manually corrected. A searchable PDF complying to the PDF/A standard would be saved to ensure long-term storage sustainability.  
