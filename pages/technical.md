@@ -12,9 +12,8 @@ The items selected for imaging were chosen because they were already owned by th
 The pamphlet novels were photographed using a home set up due to the ongoing COVID-19 pandemic. Items were placed on a black book cushion and lit from above using a lamp covered with parchment paper to diffuse the light (see photo). The actual photos were taken with the Camera app of an iPad Pro. These photos are 72dpi.  
 
 The photos were then transferred to a laptop and perspective cropped in Photoshop and saved as JPGs on the highest quality setting. No color adjustments were made to the photos. Then the photos were underwent the OCR process in ABBYY Fine Reader and saved as searchable PDFs.  
- 
-{% include feature/image-external.html src="/images/dig_setup.jpg" width="50" %}
-**Home digitization set-up, October 2020, Bloomington, IN**  
+
+{% include feature/image.html objectid="/images/dig_setup.jpg" width="50" caption="Home digitization set-up, October 2020, Bloomington, IN" %}
 
 Under normal circumstances, the pamphlet novels would be scanned on a flat bed scanner, especially since they lay very flat. They would be scanned with color calibration cards to ensure faithful color, and the ppi of the photos would likely be higher. The images could then be processed by ABBYY Fine Reader and any OCR errors would be manually corrected. A searchable PDF complying to the PDF/A standard would be saved to ensure long-term storage sustainability.  
 
