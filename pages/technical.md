@@ -6,6 +6,7 @@ permalink: /technical.html
 # Look in _includes/feature for options to easily add features to the page
 ---
 # Technical Documentation
+{% include feature/nav-menu.html sections="Items Chosen;Imaging Standards;Metadata Standards;" %}
 ## Items Chosen
 The items selected for imaging were chosen because they were already owned by the creator of this site, and the publications are all in the public domain. All items in the collection have been fully digitized and they have received OCR treatment using ABBYY FineReader 15. This means that all of the PDF files are searchable, both within the files themselves and using the search bar of the site (you will have to open the PDF file to view the text, however). Due to time constraints, the OCR has not been corrected, but the quality of the OCR is generally quite good despite the fact that the print quality is somewhat poor.  
 ## Imaging Standards
