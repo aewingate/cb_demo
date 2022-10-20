@@ -5,10 +5,19 @@
 "Timeline","/timeline.html",
 "Data","/data.html",
 "About",,
-"About the Collection","/about.html","About"
+"About the collection","/about.html","About"
 "People","/people.html","About"
-"Technical Documentation","/technical.html","About"
-"Explore the Series",,
-"La Novela Corta","/corta.html","Explore the Series"
-"La Novela Teatral","/teatral.html","Explore the Series"
-"La Novela Cómica","/comica.html","Explore the Series"
+"Technical documentation","/technical.html","About"
+"Explore the series",,
+"La Novela Corta",,"Explore the series"
+"Series history","/corta_series.html","La Novela Corta"
+"Characteristics","/corta_characteristics.html","La Novela Corta"
+"Other issues","/corta_issues.html","La Novela Corta"
+"La Novela Teatral","/teatral.html","Explore the series"
+"La Novela Cómica","/comica.html","Explore the series"
+"Historical context",,
+"Advertising","/advertising.html","Historical context"
+"Publishing circumstances","/publishing.html","Historical context"
+"Reading public","/readers.html","Historical context"
+"Bibliography","/bibliography.html",
+"Related resources","/resources.html",
