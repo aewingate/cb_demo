@@ -4,5 +4,7 @@
 "Subjects","/subjects.html",
 "Timeline","/timeline.html",
 "Data","/data.html",
-"About","/about.html",
-"People","/about/people.html","About"
+"About",,
+"About the Collection","/about.html","About"
+"People","/people.html","About"
+"Technical Documentation","/technical.html","About"
