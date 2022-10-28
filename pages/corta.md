@@ -41,5 +41,5 @@ In this table you can search for other digitized issues of La Novela Corta not p
 <p style="text-align: center;"><iframe width="900" height="700" style="border: none;" src="https://view-awesome-table.com/-MMVvQxoeX4gKRYqkFt3/view"></iframe></p>  
 
 ### Notes
-[^1] Mogin-Martin, p. 45.  
-[^2] Mogin-Martin, p. 38.
+[^1]: Mogin-Martin, p. 45.  
+[^2]: Mogin-Martin, p. 38.
