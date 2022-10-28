@@ -6,6 +6,7 @@ permalink: /corta.html
 # Look in _includes/feature for options to easily add features to the page
 ---
 # La Novela Corta
+{% include feature/nav-menu.html sections="Series History;Characteristics of the series;Other issues of La Novela Corta" %}
 ## Series History
 Series Director: José de Urquía
 

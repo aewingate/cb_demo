@@ -8,9 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
-
-{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
+{% include feature/nav-menu.html sections="About the Collection;About the Platform" %}
 
 ## About the Collection
 This site contains digitized and OCRed copies from three popular pamphlet novel series printed in the early 20th century in Spain. All of the pamphlet novels are in the public domain, so you are welcome to download, share, and teach with the items displayed here.
