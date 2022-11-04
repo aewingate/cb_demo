@@ -29,6 +29,8 @@ Periodicity: Weekly (Saturdays)
 
 Distribution: Mainly Spain, but internationally distributed
 
+{% include feature/image.html objectid="ultimafada_1916" %}
+
 ## Characteristics of the series
 _La Novela Corta_ was a series for literary works excluding drama because of the existence of _La Novela Teatral_. It was the first and longest running series among those published by Prensa Popular.  
 
