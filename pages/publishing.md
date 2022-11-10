@@ -44,7 +44,8 @@ Distribution methods
 The main two distribution methods for La Novela Corta and the other series are subscription and newsstand sales. Subscriptions were most common in 1916, and advertising for subscriptions reappears between 1920 and 1921, but in between subscription is not mentioned within the issues [^10]. It would seem then that newsstand sales were the more regular method of distribution. 
 
 Additionally, Mogin-Martin points out that despite the Madrid-centric quality of the advertisements, the Prensa Popular publications enjoyed distribution outside of Madrid [^11]. In the initial issues of La Novela Corta like El Hombre Negro by Carmen de Burgos, subscription prices are listed for "Madrid and the provinces" (Madrid y las provincias) and for "Foreign locales" (Extranjero).
-Notes
+
+## Notes
 
 [^1]:  Roselyne Mogin-Martin, La Novela Corta. (Madrid: Consejo Superior de Investigaciones Científicas, 2000) p. 26.
 
