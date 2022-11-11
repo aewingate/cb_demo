@@ -12,7 +12,7 @@ Because most of the issues of these pamphlet novels are in the public domain, th
 
 [La Novela Corta](https://aewingate.github.io/cb_demo/corta.html#other-issues-of-la-novela-corta)
 
-[La Novela Cómica](https://aewingate.github.io/cb_demo/corta.html#other-issues-of-la-novela-comica)
+[La Novela Cómica](https://aewingate.github.io/cb_demo/comica.html#other-issues-of-la-novela-c%C3%B3mica)
 
 [La Novela Teatral](https://aewingate.github.io/cb_demo/corta.html#other-issues-of-la-novela-teatral)
 
