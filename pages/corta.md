@@ -1,12 +1,11 @@
 ---
 title: La Novela Corta
-layout: page
+layout: page-full-width
 permalink: /corta.html
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
 # La Novela Corta
-<br>
 <br>
 {% include feature/nav-menu.html sections="Series History;Characteristics of the series;Other issues of La Novela Corta" %}
 ## Series History
