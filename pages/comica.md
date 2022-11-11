@@ -30,18 +30,19 @@ Periodicity: Weekly (Sundays)
 
 Distribution: Domestic and international 
 ## Characteristics of the Series
-La Novela Cómica is the shortest running series included in this digital library. While it did begin before La Novela Teatral, unlike La Novela Corta and La Novela Teatral which both reached 400+ issues, La Novela Cómica only had a series run of 183 issues. Like La Novela Teatral, these issues were published weekly on Sundays [1]. Also like La Novela Teatral, La Novela Cómica mostly consisted of theatrical works not prose, so its issues are typographically structured like scripts. However, the issues are restricted to the comedic sub-genres of theater: sainetes (farces), juguetes cómicos (comedic sketches), operettas, revistas (revue/variety show), vaudeville, apropósitos (sketches), and many others. Works with music were very common [2].
+La Novela Cómica is the shortest running series included in this digital library. While it did begin before La Novela Teatral, unlike La Novela Corta and La Novela Teatral which both reached 400+ issues, La Novela Cómica only had a series run of 183 issues. Like La Novela Teatral, these issues were published weekly on Sundays [^1]. Also like La Novela Teatral, La Novela Cómica mostly consisted of theatrical works not prose, so its issues are typographically structured like scripts. However, the issues are restricted to the comedic sub-genres of theater: sainetes (farces), juguetes cómicos (comedic sketches), operettas, revistas (revue/variety show), vaudeville, apropósitos (sketches), and many others. Works with music were very common [^2].
 
-La Novela Cómica did not have a consistent cover art scheme in the same way as La Novela Corta and La Novela Teatral. Sometimes they just had photos of individuals associated with theater, such as in Corazonadas above, but they also reproduced the winners of the poster contest they held for their covers [3].
+La Novela Cómica did not have a consistent cover art scheme in the same way as La Novela Corta and La Novela Teatral. Sometimes they just had photos of individuals associated with theater, such as in Corazonadas above, but they also reproduced the winners of the poster contest they held for their covers [^3].
 
-While the poster contest (Concurso de Carteles) was the most important contest put on by La Novela Cómica (first prize 1,000 pesetas) it wasn't the only contest. They had another contest for a comedic play and for a comedic lyrical farce to be premiered at the Teatro Infanta Isabel and the Teatro Cómico. There was also a novel contest. García-Abad García describes these contests as a strategy for attracting new readers [4].
+While the poster contest (Concurso de Carteles) was the most important contest put on by La Novela Cómica (first prize 1,000 pesetas) it wasn't the only contest. They had another contest for a comedic play and for a comedic lyrical farce to be premiered at the Teatro Infanta Isabel and the Teatro Cómico. There was also a novel contest. García-Abad García describes these contests as a strategy for attracting new readers [^4].
 
-[1]. García-Abad García, p. 7. 
+[^1]: García-Abad García, p. 7. 
 
-[2]. García-Abad García, p. 18.
+[^2]: García-Abad García, p. 18.
 
-[3]. García-Abad García, p. 9.
+[^3]: García-Abad García, p. 9.
 
-[4]. García-Abad García, pp. 14-15.
+[^4]: García-Abad García, pp. 14-15.
 ## Other issues of La Novela Cómica
 In this table you can search for other digitized issues of La Novela Cómica not part of the collections of this digital library. Click on the hyperlinked title of an entry to be taken to the facsimile or the catalog record for the facsimile. Multiple years of publication and authors may be selected, you can bound your search by issue number, and you can do a text search on titles.
+<p><iframe width="900" height="700" style="border: none;" src="https://view-awesome-table.com/-MMW6kIUnipIjlPvGJWb/view"></iframe></p>
