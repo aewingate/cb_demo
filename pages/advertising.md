@@ -34,10 +34,10 @@ In Roselyn Mogin-Martin's analysis of La Novela Corta, she also identifies five 
 
 ## Notes
 
-[^1] Roselyne Mogin-Martin, La Novela Corta. (Madrid: Consejo Superior de Investigaciones Científicas, 2000) p. 34.
+[^1]: Roselyne Mogin-Martin, La Novela Corta. (Madrid: Consejo Superior de Investigaciones Científicas, 2000) p. 34.
 
-[^2] Mogin-Martin, p. 34.
+[^2]: Mogin-Martin, p. 34.
 
-[^3] Mogin-Martin, p. 34.
+[^3]: Mogin-Martin, p. 34.
 
-[^4] Mogin-Martin, pp. 32-33.
+[^4]: Mogin-Martin, pp. 32-33.

@@ -6,7 +6,7 @@ permalink: /readers.html
 # Look in _includes/feature for options to easily add features to the page
 ---
 # Reading public
-Who Read These Pamphlet Novels?
+Who read these pamphlet novels?
 
 The question of who read La Novela Corta, La Novela Teatral, and La Novela Cómica is to some extent answered explicit statements made by the publisher, the price, and the content of the advertisements included in these series. 
 

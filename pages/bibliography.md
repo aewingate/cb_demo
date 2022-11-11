@@ -11,7 +11,7 @@ García-Abad García, María Teresa, La novela cómica. (Madrid: Consejo Superio
 
 Mogin-Martin, Roselyne, La novela corta. (Madrid: Consejo Superior de Investigaciones Científicas, 2000)
 
-Pérez Bowie, José Antonio, La novela teatral. (Madrid: Consejo Superior de Investigaciones Científicas, 1996)
-See also
+Pérez Bowie, José Antonio, La novela teatral. (Madrid: Consejo Superior de Investigaciones Científicas, 1996)  
 
+See also  
 Baulo, Sylvie, 'La producción por entregas y las colecciones semanales' in La historia de la edición y de la lectura en España 1472-1914, ed. by Víctor Infantes, François López, and Jean-François Botrel (Madrid: Fundación Germán Sánchez Ruipérez, 2003), pp. 581-588
