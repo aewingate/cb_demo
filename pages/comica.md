@@ -5,7 +5,7 @@ permalink: /comica.html
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
-# Novela Comica
+# La Novela Cómica
 {% include feature/nav-menu.html sections="Series History;Characteristics of the series;Other issues of La Novela Cómica" %}
 ## Series History
 Series Director: José de Urquía
@@ -17,8 +17,7 @@ Series end date: December 7, 1919, Año IV, no. 183 Nunca es tarde by Alberto In
 Total issues: 183
 
 Special series:
-
-    La Novela Policiaca (14 issues in 1918)
+- La Novela Policiaca (14 issues in 1918)
 
 Initial price: 10 céntimos
 
